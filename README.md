@@ -2,7 +2,7 @@
 
 #English
 
-StupidLazy is a lazy script, i will be updating the script very often
+StupidLazy is a lazy script, i will be updating the script very often,
 by the way, i wrote the script in english.
 
 For executing the script, type : python stupidlazy.py
