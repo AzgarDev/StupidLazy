@@ -17,4 +17,11 @@ Para executar o script, digite : sudo python stupidlazy.py
 chmod +x stupidlazy.py
 sudo python stupidlazy.py
 
-THANKS ! ! ! ! 
+#!UPDATE 1
+
+#English
+(Want to go back to the menu? yes/no: )
+
+#Português
+Eu adcionei a opção (Want to go back to the menu? : )
+que se traduz para (Desejaria volta para o menu? : )
