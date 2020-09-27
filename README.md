@@ -39,7 +39,7 @@ Eu adcionei um UPDATER para atualizar o script sem você ter que baixar de novo 
 #English
 Added some touches to the update file and added a option called ( UPDATE ) on stupidlazy.py
 
-#Portugûes
+#Português
 Eu adcionei alguns retoques e adcionei uma opção chamada ( UPDATE ) no arquivo stupidlazy.py
 
 
