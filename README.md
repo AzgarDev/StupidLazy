@@ -14,6 +14,7 @@ alias, eu escrivi o script em inglês, se vocês quiserem eu posso traduzir ele,
 
 Para executar o script, digite :
 chmod +x stupidlazy.py && sudo python stupidlazy.py
+
 #!UPDATE 1
 
 #English
