@@ -34,4 +34,13 @@ Added a UPDATER file so you can update the script without downloading it again f
 #Portugûes
 Eu adcionei um UPDATER para atualizar o script sem você ter que baixar de novo ! Eu tambem adcionei mais uma opção ( Use NMAPer ), essa opção usa o script NMAPer.py para você scannear o OS de uma host e muito mais ! Eu tambem retoquei os script pra ficar mais bonito e melhor ! Para fazer update na tool digite no seu termninal : python UPDATE.py
 
+#!UPDATE 3
+
+#English
+Added some touches to the update file and added a option called ( UPDATE ) on stupidlazy.py
+
+#Portugûes
+Eu adcionei alguns retoques e adcionei uma opção chamada ( UPDATE ) no arquivo stupidlazy.py
+
+
 THANKS ! ! !
