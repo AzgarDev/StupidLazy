@@ -41,5 +41,9 @@ Added some touches to the update file and added a option called ( UPDATE ) on st
 #Português
 Eu adcionei alguns retoques e adcionei uma opção chamada ( UPDATE ) no arquivo stupidlazy.py
 
+#English
+ROCK YOU UPDATE OPTION
+#Português
+UPDATE NO NA OPÇAO ROCKYOU
 
-THANKS ! ! !
+THANKS ! ! ! 
