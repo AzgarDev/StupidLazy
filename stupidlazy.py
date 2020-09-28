@@ -98,7 +98,7 @@ def grepno():
     grepa = raw_input("You want to extract rockyou.txt.gz? yes/no : ")
     if grepa == "yes":
         print("EXTRACTING ROCKYOU.TXT")
-        os.system("gzip -d /usr/share/wordlists/rockyou.txt.gz")
+        os.system("sudo gzip -d /usr/share/wordlists/rockyou.txt.gz")
         time.sleep(10)
         print("DONE")
         menua()
