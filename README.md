@@ -7,7 +7,7 @@ StupidLazy is a lazy script written in python.
 To install the script, follow the instructions bellow
 
 ```bash
-git clone https://github.com/AzgarDev/StupidLazy.git
+sudo git clone https://github.com/AzgarDev/StupidLazy.git
 cd StupidLazy
 sudo chmod +x stupidlazy.py
 sudo chmod +x NMAPer.py
