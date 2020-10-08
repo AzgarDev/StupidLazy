@@ -29,6 +29,7 @@ try:
 		print("REMOVING OLD VERSIONS.")
 		os.system("rm -rf stupidlazy.py")
 		os.system("rm -rf NMAPer.py")
+		os.system("rm -rf page2.py")
 		time.sleep(0.5)
 		print("COPING NEW FILES")
 		with cd("StupidLazy"):
