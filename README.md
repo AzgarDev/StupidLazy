@@ -9,10 +9,8 @@ To install the script, follow the instructions bellow
 ```bash
 sudo git clone https://github.com/AzgarDev/StupidLazy.git
 cd StupidLazy
-sudo chmod +x stupidlazy.py
-sudo chmod +x NMAPer.py
-sudo chmod +x UPDATE.py
-sudo chmod +x page2.py
+sudo chmod +x install.sh
+./install.sh
 ```
 
 ## Usage
