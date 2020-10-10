@@ -21,7 +21,7 @@ def optiona22():
 			os.system("clear")
 			print("ALL PACKEGES UPDATED, GOING BACK TO THE MAIN MENU")
 			time.sleep(2)
-			os.system("python pages2.py")
+			os.system("python page2.py")
 		elif upgq == "no":
 			os.system("python page2.py")            
 		else:
