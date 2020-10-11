@@ -3,6 +3,7 @@
 clear
 echo "Installing..."
 sleep 1
+apt-get install xterm
 apt-get install figlet
 apt-get install python-pip
 pip3 install colorama
@@ -13,3 +14,4 @@ chmod +x page2.py
 chmod +x UPDATE.py
 clear
 echo "Done"
+python stupidlazy.py
