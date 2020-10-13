@@ -5,8 +5,9 @@ echo "Installing..."
 sleep 1
 apt-get install xterm
 apt-get install figlet
+apt-get install python3-pip
 apt-get install python-pip
-pip3 install colorama
+pip install colorama
 clear
 chmod +x stupidlazy.py
 chmod +x NMAPer.py
