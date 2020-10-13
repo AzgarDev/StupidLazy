@@ -15,4 +15,5 @@ chmod +x page2.py
 chmod +x UPDATE.py
 clear
 echo "Done"
+sleep 2
 python stupidlazy.py
