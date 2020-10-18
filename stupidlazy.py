@@ -6,7 +6,6 @@ import os
 import time
 import subprocess
 import shlex
-from pathlib import Path
 import colorama
 from colorama import Fore, Back, init
 
