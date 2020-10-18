@@ -9,14 +9,29 @@ To install the script, follow the instructions bellow
 ```bash
 sudo git clone https://github.com/AzgarDev/StupidLazy.git
 cd StupidLazy
-sudo chmod +x install.sh
-./install.sh
+sudo chmod +x setup.py
+python setup.py
 ```
 
 ## Usage
 
 ```python
+
 python stupidlazy.py
+
+OR
+
+stupidlazy
+
+```
+
+
+## UPDATE
+
+Now you can acess stupidlazy from everywhere on your terminal, by typing:
+
+```
+stupidlazy
 ```
 
 ## Contributing
