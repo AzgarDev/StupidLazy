@@ -3,10 +3,10 @@
 clear
 echo "Installing..."
 sleep 1
-apt-get install xterm
-apt-get install figlet
-apt-get install python3-pip
-apt-get install python-pip
+apt-get install xterm -y
+apt-get install figlet -y
+apt-get install python3-pip -y
+apt-get install python-pip -y
 pip install colorama
 clear
 chmod +x stupidlazy.py
