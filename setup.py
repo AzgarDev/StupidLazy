@@ -24,6 +24,8 @@ except IOError:
 	os.system("clear")
 	print("Installing...")
 	time.sleep(1)
+	os.system("pip install beautifulsoup4")
+	os.system("pip install google")
 	os.system("sudo apt-get install xterm -y")
 	os.system("sudo apt-get install figlet")
 	os.system("sudo apt-get install python3-pip")
