@@ -24,6 +24,8 @@ except IOError:
 	os.system("clear")
 	print("Installing...")
 	time.sleep(1)
+	os.system("pip install urllib2")
+	os.system("pip install BeautifulSoup")
 	os.system("pip install beautifulsoup4")
 	os.system("pip install google")
 	os.system("sudo apt-get install xterm -y")
